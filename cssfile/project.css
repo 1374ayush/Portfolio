@@ -1,0 +1,17 @@
+.project-box-1{
+display: flex;
+border-radius: 25px 25px 10px 10px;
+}
+.project-box-1 .col-8{
+margin:10px;
+}
+.project-box-1 .col-4{
+text-align: center;
+}
+.project-box-btn {
+    margin-top: 13px;
+    font-size: large;
+    padding: 5px;
+    border-radius: 25px;
+    border: 1px solid black;
+  }
